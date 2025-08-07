@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+bcrypt
+PyJWT
+pydantic
+supabase
+openai
+fpdf
+pytest
+httpx
+pydantic-settings
